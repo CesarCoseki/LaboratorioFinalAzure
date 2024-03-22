@@ -63,5 +63,6 @@ Origem: conversa com o Bing, 21/03/2024
 
 ### 3
 
+![image](https://github.com/CesarCoseki/LaboratorioFinalAzure/assets/142443953/0e3b96a7-f39b-4d20-9109-bf2ef40cb011)
 
 
